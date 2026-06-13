@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @n1azizov
-- 👀 I’m interested in learning new things every day. I am passionate about programming, Cybersecurity and AI
-- 🌱 I’m currently learning Python and C programming languages.
-- 💞️ I’m looking to collaborate on various projects with programmers from all over the world.
-- 📫 You can reach me via e-mail: nadirabulfazazizov@gmail.com 
-- 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I am a potterhead)
+# Hi, I'm Nadir 👋
 
-<!---
-n1azizov/n1azizov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science student at UFAZ, passionate about software development, AI, data analysis, and cybersecurity.
+
+* Building projects and exploring new technologies
+* Interested in open-source development and research
+* Always learning and improving
+
+📫 [nadirabulfazizov@gmail.com](mailto:nadirabulfazizov@gmail.com)
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=n1azizov&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=n1azizov&layout=compact)
